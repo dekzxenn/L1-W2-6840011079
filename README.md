@@ -1,4 +1,4 @@
-# database-week2-lab2
+# L1-W2-6840011079
 # Week 02 - Setup & Explore DBMS Tools
 ## สมาชิกทีม
 - อภิชาติ เพชรอาวุธ (ุ6840011079)
